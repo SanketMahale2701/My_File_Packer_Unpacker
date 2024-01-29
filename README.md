@@ -14,4 +14,4 @@ step 2 :- for run project type following command
 java login
 
 step 3 : enter username & password as follow
-username:abcd password:abcd
+username:MyAdmin password:MyAdmin
